@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##I am Sayali
+
+I am a Student at University of Pune with a focus in Computer Engineering.
+
+
 <!--
 **sayali1711/sayali1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
