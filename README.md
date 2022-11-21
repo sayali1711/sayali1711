@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SayaliPadmawar)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sayali-padmawar/)
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/sayali-padmawar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayali-padmawar" height="30" width="40" /></a>
+<a href="https://twitter.com/SayaliPadmawar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SayaliPadmawar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sayali1711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayali1711" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Github Stats :</h3>
 <div align="center"> 
