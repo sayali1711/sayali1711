@@ -26,3 +26,18 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SayaliPadmawar)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sayali-padmawar/)
+
+<h3 align="left">Github Stats :</h3>
+<div align="center"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayali1711&label=Profile%20views&color=0e75b6&style=flat" alt="sayali1711" /> </p>
+ <img  width = "43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayali1711&show_icons=true&locale=en&layout=compact" alt="sayali1711" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sayali1711&show_icons=true&locale=en" alt="sayali1711" />
+
+</div>
+
+<div align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayali1711&" alt="sayali1711" />
+  </div>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=sayali1711&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></p>
