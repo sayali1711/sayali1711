@@ -1,5 +1,5 @@
 
-<img src="https://static.wixstatic.com/media/35318b_ed32b39faf8a4ff0bce9b919183a9e4b~mv2.gif" width="850" height="250"/>
+<img src="https://static.wixstatic.com/media/35318b_ed32b39faf8a4ff0bce9b919183a9e4b~mv2.gif" width="850" height="100"/>
 
 ### Hi there 👋
 
