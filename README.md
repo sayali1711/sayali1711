@@ -5,7 +5,6 @@
 
 ## **I am Sayali**
 
-I am a Student at University of Pune with a focus in Computer Engineering.
 
 
 <!--
